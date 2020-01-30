@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FastLogic</string>
+    <string name="button_start_new_game">НАЧАТЬ ЗАНОВО</string>
+    <string name="clear_max_result">Сброс данных</string>
+</resources>
